@@ -1,2 +1,5 @@
-# kotlin-study
-Kotlin Study Repository
+# 코틀린 공부한 내용 정리
+
+## To-do
+- 2018-11-26 이후부터 하루에 한 파트씩 정리하기
+- 간단한 프로그램 하나씩 만들어보기
