@@ -6,4 +6,5 @@ fun main(args:Array<String>){
     kotlinBase031()
     kotlinBase032()
     kotlinBase033()
+    kotlinBase04()
 }
